@@ -1,5 +1,9 @@
 testando repo 1 do git comandos a
+<<<<<<< HEAD
 a
 b
 c
 d
+=======
+fdf
+>>>>>>> funcao_x
